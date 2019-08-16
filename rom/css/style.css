@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Comic;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/css/fonts/comic-sans-ms.woff) format("woff"), url(/css/fonts/comic-sans-ms.ttf) format("truetype");
+}
+
+body {
+  font-size: 1.2em;
+  color: maroon;
+  font-family: "Comic", serif;
+  background-color: cornsilk;
+}
+
+p {
+  font-size: .9em;
+}
+/*# sourceMappingURL=style.css.map */
