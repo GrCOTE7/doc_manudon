@@ -9,7 +9,7 @@ description: Description du fonctionnement
 Becoming a super hero is a fairly straight forward process:
 
 ```
-$ give me super-powers
+give me super-powers ;-)
 ```
 
 {% hint style="info" %}
