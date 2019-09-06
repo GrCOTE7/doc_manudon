@@ -1,14 +1,27 @@
-# jml
+---
+description: Description du fonctionnement
+---
 
-Projet de dev **J**ean-Lub, **M**omo & **L**ionel
+# Documentation
 
-1. But: Avoir outil de dev identique
-2. Mise à niveau des compétences  des langages 'HTML, CSS, JS, PHP, etc...)
-3. ...
+## Getting Super Powers
 
-----
+Becoming a super hero is a fairly straight forward process:
 
-Chacun y a son dossier pour y faire ce qu'il l'on veut
+```
+$ give me super-powers
+```
 
-La page d'index montre où on en est
-(Chacun y appose sa propre croix)
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
